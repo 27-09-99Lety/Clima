@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     
+}
+
+body{
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("tiempo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;    height: 99px;
+    border-image: 100%;
+   
+}
+
+#nombre{
+    justify-content:right;
+    align-items: right;
+    padding: 10px 5px 5px;
+    text-align: right;
+    color: white;
+}
+
+#letra{
+    justify-content:right;
+    align-items: right;
+    padding: 10px 5px 5px;
+    text-align: right;
+    font-size: 15px;
+    color: white;
+}
+
+h1{
+    justify-content:right;
+    align-items: right;
+    padding: 10px 5px 5px;
+    text-align: right;
+    font-size: 80px;
+    color: white;
+    
+}
+
+h4{
+    text-align: right;
+    color: white;
+}
+
+h4{
+    text-align: right;
+    color: white;
+}
+
+#fondo{
+    background-color: rgb(96, 32, 156);
+    width: 100%;
+    margin-top: 100%;
+    margin-right: 25%;
+    padding: 5px;
+    padding-bottom: 150px;
+    padding-left: 20px;
+   
+    
+}
+
+#abajo{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    margin-top: 168% ;
+    color:white;
+   
+
+}
+#masabajo{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    margin-top: 100% ;
+    color:white;
+}
+h5{
+    display: inline-block;
+}
+#tres{
+    position: absolute;
+    color:white;
+    display: inline-block;
+}
+#cuatro{
+    position: absolute;
+    color:white;
+    display: inline-block;
+}

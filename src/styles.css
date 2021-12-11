@@ -1,0 +1,96 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-image: url("assets/imgs/tiempo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 99px;
+  border-image: 100%;
+}
+
+#nombre {
+  justify-content: right;
+  align-items: right;
+  padding: 10px 5px 5px;
+  text-align: right;
+  color: white;
+  margin-right: -25%;
+}
+
+#letra {
+  justify-content: right;
+  align-items: right;
+  padding: 10px 5px 5px;
+  text-align: right;
+  font-size: 15px;
+  margin-right: -25%;
+  color: white;
+}
+
+h1 {
+  margin-right: -25%;
+  justify-content: right;
+  align-items: right;
+  padding: 10px 5px 5px;
+  text-align: right;
+  font-size: 80px;
+  color: white;
+}
+
+h4 {
+  margin-right: -25%;
+  text-align: right;
+  color: white;
+}
+
+h4 {
+  text-align: right;
+  color: white;
+}
+
+
+#abajo {
+  background-color: rgb(96, 32, 156);
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  margin-top: 168%;
+  color: white;
+  padding: 3%;
+  margin-left: -5%;
+  margin-right: 200px;
+  margin-right: -100px;
+  width: 102%;
+
+}
+#masabajo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  margin-top: 100%;
+  color: white;
+}
+h5 {
+  padding: 2%;
+  display: inline-block;
+}
+#tres {
+  position: absolute;
+  color: white;
+  display: inline-block;
+}
+#cuatro {
+  position: absolute;
+  color: white;
+  display: inline-block;
+}
+.ubicacion{
+  text-align: right;
+}
